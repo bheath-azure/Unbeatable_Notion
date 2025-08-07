@@ -17,8 +17,8 @@
 - **Presence**: 0
 
 ## Experiences
-- **Protect +2** (Instinct): Advantage on rolls to shield allies.
-- **Grapple +2** (Strength): Restrain enemies to control the battlefield.
+- **Endure the Sands +2** (Strength): Withstand environmental hazards or physical damage from large foes, reducing damage by Proficiency (+1) and gaining advantage on the next Strength recovery roll on success.
+- **Guardian’s Vigil +2** (Instinct): Anticipate threats to interpose and take an ally’s attack, gaining Hope on success.
 
 ## Weapons
 - **Primary**: Warhammer (Strength, Melee, d8+2 phy, One-Handed, **Sturdy**: +1 damage with 2+ Stress)

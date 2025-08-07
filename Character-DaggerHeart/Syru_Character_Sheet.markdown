@@ -32,7 +32,7 @@
 ## Health & Defenses
 - **Hit Points**: 4 slots (3 base + 1 Iron Constitution)
 - **Stress**: 3 slots
-- **Damage Thresholds**: Minor 9, Major 17 (Chainmail 7/15 + Proficiency 1 from Shell + 1 from Unwavering)
+- **Damage Thresholds**: Major 9, Severe 17 (Chainmail 7/15 + Proficiency 1 from Shell + 1 from Unwavering)
 - **Evasion**: 11 (Base 11 - 1 Chainmail + 1 Shield)
 - **Armor Score**: 4
 

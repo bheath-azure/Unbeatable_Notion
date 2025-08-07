@@ -1,6 +1,6 @@
 # Syru - Wanderborne Galapa Guardian (Stalwart)
 
-![Syru_Portrait](Character-DaggerHeart/syru_galapa.guardian.jpg)
+![Syru_Portrait](https://github.com/bheath-azure/Unbeatable_Notion/raw/main/Character-DaggerHeart/syru_galapa.guardian.jpg)
 
 ## Character Details
 - **Name**: Syru

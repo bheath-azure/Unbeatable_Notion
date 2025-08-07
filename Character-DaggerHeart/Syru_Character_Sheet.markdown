@@ -1,5 +1,7 @@
 # Syru - Wanderborne Galapa Guardian (Stalwart)
 
+![Syru_Portrait](./syru_galapa.guardian.jpg)
+
 ## Character Details
 - **Name**: Syru
 - **Heritage**: Wanderborne Galapa
